@@ -54,9 +54,7 @@ asmFunc:
 
     
     /*** STUDENTS: Place your code BELOW this line!!! **************/
-     mov r2, r0 
-     mov r3, r1
-     add r0, r2, r3
+     add r0, r0, r1
     /*** STUDENTS: Place your code ABOVE this line!!! **************/
     
     /* restore the caller's registers, as required by the 
